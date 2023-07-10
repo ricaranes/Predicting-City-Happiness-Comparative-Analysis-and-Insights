@@ -13,6 +13,7 @@ The primary objective of this project is to create a predictive model for estima
 The following data sources were utilized for this project:
 
 Kaggle: [Dataset containing various city features](https://www.kaggle.com/datasets/prasertk/healthy-lifestyle-cities-report-2021)
+
 Google: Additional data collected to enrich the dataset
 
 # Methodology:
