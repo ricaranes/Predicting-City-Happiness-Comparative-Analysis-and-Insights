@@ -20,10 +20,15 @@ Google: Additional data collected to enrich the dataset
 The project involved the following steps:
 
 Data Collection: Gathering the dataset from Kaggle and collecting additional relevant data from Google to enhance the feature set.
+
 Data Preprocessing: Cleaning and transforming the collected data to ensure consistency and compatibility for analysis.
+
 Feature Selection: Identifying the most significant features that contribute to the happiness index based on their impact and relevance.
+
 Model Training: Utilizing Python to train a predictive model using the selected features. The KNeighborsRegressor model was used for this project.
+
 Prediction and Comparison: Applying the trained model to predict the happiness index of two Portuguese cities and comparing them with Lisbon. The predictions were made using the KNeighborsRegressor model.
+
 Analysis and Insights: Analyzing the results to understand the factors influencing happiness in different cities and deriving meaningful insights. Visualizations were created using Tableau to aid in the analysis and presentation of the findings.
 
 # Repository Structure
