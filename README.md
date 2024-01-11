@@ -1,5 +1,5 @@
 # Predicting City Happiness: Comparative Analysis and Insights
-
+<img align="right" width="480" height="250" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
 # Introduction
 
