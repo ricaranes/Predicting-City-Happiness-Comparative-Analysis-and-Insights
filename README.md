@@ -1,5 +1,5 @@
 # Predicting City Happiness: Comparative Analysis and Insights
-<img align="right" width="480" height="250" alt="img" src="https://github.com/ricaranes/Predicting-City-Happiness-Comparative-Analysis-and-Insights/blob/main/Screenshot%202024-01-11%20at%2017.59.02.png" />
+<img align="left" width="480" height="250" alt="img" src="https://github.com/ricaranes/Predicting-City-Happiness-Comparative-Analysis-and-Insights/blob/main/Screenshot%202024-01-11%20at%2017.59.02.png" />
 
 # Introduction
 
